@@ -1,3 +1,5 @@
+<img src=".claude-plugin/icon.png" alt="Sharpen icon" width="96">
+
 # sharpen
 
 Adds a **✨ Sharpen** button above the Claude Code prompt box. Type a rough prompt and press it: the draft is replaced with the prompt you meant to write. Sharpen reads the last few messages of the conversation, so "2 but brighter" becomes "Go with option 2, the wide shot, but make it brighter".

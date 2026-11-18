@@ -1,0 +1,6 @@
+{
+  "name": "sharpen",
+  "version": "0.5.1",
+  "description": "Sharpen button: rewrites your draft into the prompt you meant, using the conversation, before you send it",
+  "types": "./types/index.d.ts"
+}

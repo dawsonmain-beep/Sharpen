@@ -1,0 +1,5 @@
+{
+  "name": "sharpen",
+  "owner": { "name": "dawsonmain-beep" },
+  "plugins": [{ "name": "sharpen", "source": "./" }]
+}
